@@ -9,7 +9,7 @@ In questo laboratorio vedremo un esempio di simulazione di reti neurali spiking 
 simulatore `NEST <https://nest-simulator.readthedocs.io/en/stable/>`_.
 
 Queste reti sono composte da modelli di neurone in grado di emettere i cosiddetti "spikes", 
-ovvero degli impulsi di corrente simili s quelli effettivamente emessi dai neuroni biologici.
+ovvero degli impulsi di corrente simili a quelli effettivamente emessi dai neuroni biologici.
 
 Per poter seguire il tutorial in modo efficace, sarà necessario avere alcuni software installati
 nel proprio PC.
