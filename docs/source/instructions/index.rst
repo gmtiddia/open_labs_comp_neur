@@ -23,6 +23,7 @@ Potete seguire le istruzioni indicate sulla pagina del software per poterlo inst
     installare `Homebrew <https://brew.sh/>`_ e successivamente NEST utilizzando il comando
 
     .. code-block:: bash
+
         brew install nest
     
     Una volta fatto ciò potete utilizzare NEST semplicemente importandolo come pacchetto Python. Potete passare alla sezione successiva!
@@ -38,11 +39,13 @@ Una volta avviata la macchina virtuale o installato NEST, potete controllare che
 Per fare questo dovrete aprire un terminale. Digitate
 
 .. code-block:: bash
+
     wget https://nest-simulator.readthedocs.io/en/stable/_downloads/63da57de96edd7f5c560300061e00c00/one_neuron.py
 
 e successivamente
 
 .. code-block:: bash
+
     python one_neuron.py
 
 Il risultato finale dovrebbe essere un grafico indicante l'andamento del potenziale di membrana di un neurone.
