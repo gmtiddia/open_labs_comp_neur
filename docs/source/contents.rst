@@ -7,7 +7,7 @@ Mappa del sito
 
 .. toctree::
    :maxdepth: 1
-   :caption: Per iniziare
+   :caption: Laboratorio
 
    Istruzioni <instructions/index>
    Tutorial <tutorials/index>

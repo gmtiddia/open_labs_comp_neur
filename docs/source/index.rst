@@ -14,8 +14,9 @@ ovvero degli impulsi di corrente simili s quelli effettivamente emessi dai neuro
 Per poter seguire il tutorial in modo efficace, sarà necessario avere alcuni software installati
 nel proprio PC.
 
-Si richiede, se possibile, di procedere con alcuni step tecnici in autonomia prima dell'inizio del laboratorio. 
-Andate nella pagina :doc:`Come iniziare<instructions/index>` per seguire tutte le istruzioni.
+.. warning::
+   Si richiede di procedere con alcuni step tecnici in autonomia prima dell'inizio del laboratorio.
+   Seguite le indicazioni che trovare nella pagina :doc:`Istruzioni<instructions/index>` per installare tutto il necessario.
 
 .. note::
 
