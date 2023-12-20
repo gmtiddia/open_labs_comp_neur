@@ -1,20 +1,22 @@
-Welcome to Lumache's documentation!
-===================================
+Benvenuti al laboratorio di neuroscienze!
+=========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+In questo laboratorio vedremo un esempio di simulazione di reti neurali spiking.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Queste reti sono composte da modelli di neurone in grado di emettere i cosiddetti "spikes", 
+ovvero degli impulsi di corrente simili s quelli effettivamente emessi dai neuroni biologici.
+
+Per poter seguire il tutorial in modo efficace, sarà necessario avere alcuni software installation
+nel proprio PC.
+
+Andate su :doc:`usage` per maggiori informazioni e seguite le istruzioni indicate su :ref:`installation`.
 
 .. note::
 
-   This project is under active development.
+   La pagina verrà modificata in seguito, aggiungendo tutte le istruzioni necessarie!
 
-Contents
---------
+Contenuti
+---------
 
 .. toctree::
 

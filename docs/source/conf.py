@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Open Lab Neuroscienze Computazionali'
+copyright = '2023, Gruppo Neuroscienze Computazionali UNICA'
+author = 'Gianmarco Tiddia, Luca Sergi, Bruno Golosio'
 
 release = '0.1'
 version = '0.1.0'
