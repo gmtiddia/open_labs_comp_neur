@@ -6,6 +6,8 @@ project = 'Open Lab Neuroscienze Computazionali'
 copyright = '2023, Gruppo Neuroscienze Computazionali UNICA'
 author = 'Gianmarco Tiddia, Luca Sergi, Bruno Golosio'
 
+master_doc = 'contents'
+
 release = '0.1'
 version = '0.1.0'
 
