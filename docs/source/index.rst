@@ -13,8 +13,8 @@ simulatore `NEST <https://nest-simulator.readthedocs.io/en/stable/>`_.
 Queste reti sono composte da modelli di neurone in grado di emettere i cosiddetti "spikes", 
 ovvero degli impulsi di corrente simili a quelli effettivamente emessi dai neuroni biologici.
 
-Per poter seguire il tutorial in modo efficace, sarà necessario avere alcuni software installati
-nel proprio PC.
+Potete seguire il tutorial senza avere un qualche tipo di prerequisito, tuttavia, per poter 
+replicare i risultati del tutorial, sarà necessario avere alcuni software installati nel proprio PC.
 
 .. warning::
    Si richiede di procedere con alcuni step tecnici in autonomia prima dell'inizio del laboratorio.
